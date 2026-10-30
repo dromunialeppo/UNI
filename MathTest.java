@@ -3,12 +3,6 @@
 public class MathTest {
    public static void main(String[] args) {
 
-         Math.log(Math.E * Math.E));
-      System.out.printf("Math.max(2.3, 12.7) = %f%n", Math.max(2.3, 12.7));
-      System.out.printf("Math.max(-2.3, -12.7) = %f%n", Math.max(-2.3, -12.7));
-      System.out.printf("Math.min(2.3, 12.7) = %f%n", Math.min(2.3, 12.7));
-      System.out.printf("Math.min(-2.3, -12.7) = %f%n", Math.min(-2.3, -12.7));
-      System.out.printf("Math.pow(2.0, 7.0) = %f%n", Math.pow(2.0, 7.0));
       System.out.printf("Math.pow(9.0, 0.5) = %f%n", Math.pow(9.0, 0.5));
       //oooAAAAAAAA
       //om
